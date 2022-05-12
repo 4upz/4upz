@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋🏾, I'm Arik</h1>
-<h3 align="center">A passionate frontend developer currently living in Chicago, IL</h3>
+<h3 align="center">A passionate frontend developer based in Chicago, IL</h3>
 
 - 🔭 I’m currently working on [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint)
 
