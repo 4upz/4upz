@@ -1,8 +1,6 @@
 <h1 align="center">Hey there 👋🏾, I'm Arik</h1>
 <h3 align="center">A passionate frontend developer currently living in Chicago, IL</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4upz-tw" alt="4upz-tw" /></a> </p>
-
 - 🔭 I’m currently working on [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint)
 
 - 😄 Pronouns **He/HIM**
