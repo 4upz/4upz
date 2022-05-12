@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint)
 
-- 😄 Pronouns **He/HIM**
+- 😄 Pronouns **He/Him**
 
 - 💬 Ask me about **react, javascript, and anything UX or frontend**
 
