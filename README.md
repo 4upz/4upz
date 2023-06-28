@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, javascript, and anything UX or frontend**
 
-- 📫 How to reach me **ams382@case.edu**
+- 📫 How to reach me **arik.m.smith@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ariks/](https://www.linkedin.com/in/ariks/)
 
