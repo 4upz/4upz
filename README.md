@@ -1,11 +1,11 @@
 <h1 align="center">Hey there 👋🏾, I'm Arik</h1>
-<h3 align="center">A passionate frontend developer based in Chicago, IL</h3>
+<h3 align="center">A passionate developer based in Cleveland, OH</h3>
 
 - 😄 Pronouns **He/Him**
 
 - ☁️ I’m currently maintaining [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) and its [Backstage plugin](https://github.com/cloud-carbon-footprint/ccf-backstage-plugin/blob/trunk/README.md)
 
-- 💬 Ask me about **react, javascript, and anything UX or frontend**
+- 💬 Ask me about **react, javascript, sustainability and anything UX or frontend**
 
 - 📫 How to reach me **arik.m.smith@gmail.com**
 
