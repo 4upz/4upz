@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋🏾, I'm Arik</h1>
-<h3 align="center">A passionate developer based in Cleveland, OH</h3>
+<h3 align="center">A passionate developer focused on impactful software</h3>
 
 - 😄 Pronouns **He/Him**
 
